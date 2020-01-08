@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">SIH Project</string>
+    <string-array name="vegetables">
+        <item>Carrot</item>
+        <item>Ladys finger</item>
+        <item>Potato</item>
+        <item>Sweet Potato</item>
+        <item>Cabbage</item>
+        <item>Cauliflower</item>
+        <item>Brinjal</item>
+        <item>Radish</item>
+        <item>Taro(Devanagari)</item>
+        <item>Spiny Gourd()</item>
+        <item>Turnip</item>
+        <item>Capsicum</item>
+        <item>Pumkin</item>
+        <item>Bitter Gourd</item>
+        <item>Bottle Gourd</item>
+        <item>Cumber</item>
+        <item>Coccinia</item>
+        <item>Spinach</item>
+        <item>Beans</item>
+        <item>Lettuc</item>
+        <item>Red Chilli</item>
+        <item>Green Chilli</item>
+        <item>Onion</item>
+        <item>Garllic</item>
+        <item>lemon</item>
+        <item>Ginger</item>
+        <item>Tinda</item>
+        <item>Mint</item>
+        <item>Corinder</item>
+        <item>Muraya</item>
+    </string-array>
+    <string name="dialog_message">Welcome to Alert Dialog</string>
+    <string name="dialog_title">Javatpoint Alert Dialog</string>
+</resources>
